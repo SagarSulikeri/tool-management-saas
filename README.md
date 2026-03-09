@@ -1,5 +1,4 @@
 # tool-management-saas
-Sagar, if you want to build this as a modern SaaS product with the latest tech (2025 standard stack), you should choose technologies that are:
 
 Scalable
 
